@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.gg/EWnAEUtFVm" alt="Discord" title="My-server">
-    <img src="https://discord.c99.nl/widget/theme-1/297740667784921089.png"></a>
+    <img src="https://discord.c99.nl/widget/theme-1/600296744806514689.png"></a>
   </a>   
 </p>
 
